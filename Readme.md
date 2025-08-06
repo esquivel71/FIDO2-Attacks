@@ -1,4 +1,4 @@
-# FIDO2 Attacks
+# FIDO2 Impersonation and Rogue Key Attacks
 
 This repository contains the source code for the Impersonation and Rogue key attacks described in this paper: https://dl.acm.org/doi/10.1145/3600160.3600174. Additionally, it also contains an implementation of a third attack (Double Registration) which is mentioned in the paper and allows an attacker to register its token alongside the user's. Specific code for each attack is located inside the respective attack's folder, and general utilities are located under **utils**.
 
